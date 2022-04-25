@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @katiekachoo
+- 👋 Hi, I’m @katiekachoo, view my [LinkedIn](https://www.linkedin.com/in/katie-baker-4177a588/)
 - 👀 I’m interested in ... learning more about coding a developing, I want to learn it all, front to back! 
 - 🌱 I’m currently learning ... Front-end Website Developing through SheCodes, using HTML, CSS, JS, BootStrap, APIs, GitHub, and Netlify.
 - 💞️ I’m looking to collaborate on ... anything! Please let me learn from you. Anyone look to be a mentor, contact me! I am an aspiring student!
